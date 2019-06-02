@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Colisor
   layers:
   - Default
   - TransparentFX
@@ -39,6 +40,9 @@ TagManager:
   - 
   m_SortingLayers:
   - name: BackGround
+    uniqueID: 376444525
+    locked: 0
+  - name: Assets
     uniqueID: 708527723
     locked: 0
   - name: Default

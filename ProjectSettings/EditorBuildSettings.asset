@@ -9,15 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: c64fa487b7e04954ea5e2061615052a3
   - enabled: 1
+    path: Assets/Scenes/CutsceneInicial.unity
+    guid: 8b7a4cd2a78315045af42c7aea0f3770
+  - enabled: 1
     path: Assets/Scenes/GameFase1.unity
     guid: 32493dbe3051a57469cdadada9ba2f39
   - enabled: 1
     path: Assets/Scenes/GameFase2.unity
     guid: e90e3acf444de7c4fb35165b1e025f73
   - enabled: 1
-    path: Assets/Scenes/GameFase3.unity
-    guid: d3080363d66af3546917217a6c370f0c
-  - enabled: 1
     path: Assets/Scenes/CutscenePosFase2.unity
     guid: 31f601875c87b0d47beb38051c29ba9e
+  - enabled: 1
+    path: Assets/Scenes/GameFase3.unity
+    guid: d3080363d66af3546917217a6c370f0c
   m_configObjects: {}

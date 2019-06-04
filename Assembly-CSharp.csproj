@@ -55,15 +55,18 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\camera\cameraFantasma.cs" />
      <Compile Include="Assets\Scripts\camera\cameraMov.cs" />
-     <Compile Include="Assets\Scripts\peso.cs" />
-     <Compile Include="Assets\Scripts\playerbehavior.cs" />
-     <Compile Include="Assets\Scripts\pontofial.cs" />
-     <Compile Include="Assets\Scripts\praquatro.cs" />
-     <Compile Include="Assets\Scripts\quebrokk.cs" />
-     <Compile Include="Assets\Scripts\retaCarro.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\peso.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\playerbehavior.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\pontofial.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\praquatro.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\quebrokk.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\retaCarro.cs" />
+     <Compile Include="Assets\Scripts\Fase 2\Sumonado.cs" />
+     <Compile Include="Assets\Scripts\Fase 3\DoorBehavior.cs" />
+     <Compile Include="Assets\Scripts\Scene\PassarFase.cs" />
+     <Compile Include="Assets\Scripts\Scene\PassarFase2.cs" />
      <Compile Include="Assets\Scripts\Scene\resetMenu.cs" />
      <Compile Include="Assets\Scripts\Scene\SceneControler.cs" />
-     <Compile Include="Assets\Scripts\Sumonado.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/aluno.NAVERECIFE/Desktop/Greenergy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -273,9 +276,6 @@
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="Vuforia.UnityExtensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.GoogleAudioSpatializer">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>

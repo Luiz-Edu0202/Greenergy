@@ -8,8 +8,19 @@ public class SceneControler : MonoBehaviour
 {
     public void ClickPlay()
     {
-        SceneManager.LoadScene("GameFase1");
+        SceneManager.LoadScene("CutsceneInicial");
     }
+    // public void ClickRestar()
+    // {
+    //     if (SceneNuber == "GameFase1")
+    //     {
+    //         SceneManager.LoadScene("GameFase1");
+    //     }
+    //     if (SceneName == "carrorrfase2")
+    //     {
+    //         SceneManager.LoadScene("carrorrfase2");
+    //     }
+    // }
 
     public void ClickOpcoes(){
         SceneManager.LoadScene("Opções");
@@ -21,7 +32,7 @@ public class SceneControler : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D col)
     {
-         SceneManager.LoadScene("GameFase3");
+         SceneManager.LoadScene("GameFase2");
     }
 
 }

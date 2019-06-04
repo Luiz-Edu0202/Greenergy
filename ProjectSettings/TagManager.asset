@@ -39,6 +39,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Mais atras
+    uniqueID: 494222013
+    locked: 0
+  - name: atras
+    uniqueID: 356418437
+    locked: 0
   - name: BackGround
     uniqueID: 376444525
     locked: 0
@@ -50,4 +56,7 @@ TagManager:
     locked: 0
   - name: FrontGround
     uniqueID: 3218724173
+    locked: 0
+  - name: frente
+    uniqueID: 2261439853
     locked: 0

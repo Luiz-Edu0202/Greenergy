@@ -6,9 +6,9 @@ public class DoorBehavior : MonoBehaviour
 {
     [SerializeField] private bool desenvolvedor;
     // Start is called before the first frame update
-    public GameObject door;
+    public GameObject door1;
     public GameObject door2;
-    public GameObject door;
+    public GameObject door3;
     public GameObject door4;
     public GameObject door5;
 

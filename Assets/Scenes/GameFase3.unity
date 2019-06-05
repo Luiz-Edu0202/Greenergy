@@ -4647,6 +4647,9 @@ MonoBehaviour:
   VelocidadePad: 3.05
   speedAndandoBaseX: 0
   speedAndandoBaseY: 0
+  paused: 0
+  telaPausa: {fileID: 3865895330317271109, guid: 3eed89de12bfdc047b5b1637e38f0b86,
+    type: 3}
 --- !u!4 &1807884826
 Transform:
   m_ObjectHideFlags: 0

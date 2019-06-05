@@ -10,14 +10,14 @@ public class playerbehavior : MonoBehaviour
     public bool batida;
     public bool paused;
     public GameObject telaPausa;
-    public GameObject telaMorta;
+    //public GameObject telaMorta;
 
 
     IEnumerator TimerPw()
 	{	
-        Instantiate(telaMorta, new Vector2(0.1f,1.6f), Quaternion.identity);
+        //Instantiate(telaMorta, new Vector2(0.1f,1.6f), Quaternion.identity);
 		yield return new WaitForSeconds(5f);
-        SceneManager.LoadScene("GameFase2");
+        SceneManager.LoadScene("GameOver");
         GetComponent<Renderer>().material.color = Color.white;
 		batida = false;
 	}

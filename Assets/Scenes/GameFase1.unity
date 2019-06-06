@@ -4088,7 +4088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedNulo: {x: 0, y: 0}
   speedAtual: 0
-  VelocidadePad: 10
+  VelocidadePad: 3
   speedAndandoBaseX: 0
   speedAndandoBaseY: 0
   paused: 0

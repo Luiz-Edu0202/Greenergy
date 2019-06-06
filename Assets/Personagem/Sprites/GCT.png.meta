@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: f13bcf623c3877a40bfdfe2793490a16
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GCT_0
+    21300002: GCT_1
+    21300004: GCT_2
+    21300006: GCT_3
+    21300008: GCT_4
+    21300010: GCT_5
+    21300012: GCT_6
+    21300014: GCT_7
+    21300016: GCT_8
+    21300018: GCT_9
+    21300020: GCT_10
+    21300022: GCT_11
+    21300024: GCT_12
+    21300026: GCT_13
+    21300028: GCT_14
+    21300030: GCT_15
+    21300032: GCT_16
+    21300034: GCT_17
+    21300036: GCT_18
+    21300038: GCT_19
+    21300040: GCT_20
+    21300042: GCT_21
+    21300044: GCT_22
+    21300046: GCT_23
+    21300048: GCT_24
+    21300050: GCT_25
+    21300052: GCT_26
+    21300054: GCT_27
+    21300056: GCT_28
+    21300058: GCT_29
+    21300060: GCT_30
+    21300062: GCT_31
+    21300064: GCT_32
+    21300066: GCT_33
+    21300068: GCT_34
+    21300070: GCT_35
+    21300072: GCT_36
+    21300074: GCT_37
+    21300076: GCT_38
+    21300078: GCT_39
+    21300080: GCT_40
+    21300082: GCT_41
+    21300084: GCT_42
+    21300086: GCT_43
+    21300088: GCT_44
+    21300090: GCT_45
+    21300092: GCT_46
+    21300094: GCT_47
+    21300096: GCT_48
+    21300098: GCT_49
+    21300100: GCT_50
+    21300102: GCT_51
+    21300104: GCT_52
+    21300106: GCT_53
+    21300108: GCT_54
+    21300110: GCT_55
+    21300112: GCT_56
+    21300114: GCT_57
+    21300116: GCT_58
+    21300118: GCT_59
+    21300120: GCT_60
+    21300122: GCT_61
+    21300124: GCT_62
+    21300126: GCT_63
+    21300128: GCT_64
+    21300130: GCT_65
+    21300132: GCT_66
+    21300134: GCT_67
+    21300136: GCT_68
+    21300138: GCT_69
+    21300140: GCT_70
+    21300142: GCT_71
+    21300144: GCT_72
+    21300146: GCT_73
+    21300148: GCT_74
+    21300150: GCT_75
+    21300152: GCT_76
+    21300154: GCT_77
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GCT_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 8894
+        width: 778
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a681f08a208944a8d4000523263fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_1
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 8894
+        width: 777
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba051fc87db4b649a2ff45c88cf37f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_2
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 8894
+        width: 778
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdff0f64151b654983e0da6c94eb0e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_3
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 8894
+        width: 778
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6bf7d2e1c4e44b86d3487e2ea2c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_4
+      rect:
+        serializedVersion: 2
+        x: 7323
+        y: 8894
+        width: 808
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc3cccaf5c8ef4c995782fa05258aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 7452
+        width: 808
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bba83261c4d54997d973d7116f515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_7
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 7452
+        width: 819
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f833888b0206c458b83059cf573bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_9
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 7452
+        width: 821
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e1805762fd48f41b0c10042addd98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_10
+      rect:
+        serializedVersion: 2
+        x: 5306
+        y: 7452
+        width: 1068
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be952281717ea4cb5b10e185ee0f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_11
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 7452
+        width: 1064
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d15158d132c824d9ea404beaa0e0e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6010
+        width: 1128
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bc406985424145acb98181e110aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_15
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 6010
+        width: 1132
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314db54a082eba468b8bef0c3f44b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_17
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 6010
+        width: 1221
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6d0f80d8df094ea6c9d0019f379f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_19
+      rect:
+        serializedVersion: 2
+        x: 5153
+        y: 6010
+        width: 1221
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f2c94549d7f94dbb5528b009a40cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_21
+      rect:
+        serializedVersion: 2
+        x: 6861
+        y: 6010
+        width: 1206
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedede14a17f1ac47bb0a6614b2b624e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4572
+        width: 1193
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa155dc4f9914e14e947df9fa30c55f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_34
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 4572
+        width: 813
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203eebd5e4b9e7c4fa829dbf13f8bb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_35
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 4572
+        width: 808
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad606b3b19827a419271346090dc640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_36
+      rect:
+        serializedVersion: 2
+        x: 5497
+        y: 4572
+        width: 877
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183428d271c3d148b94eec839ab180d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_37
+      rect:
+        serializedVersion: 2
+        x: 7195
+        y: 4572
+        width: 872
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0531956cc698db44b8e5ccdc1a20351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3130
+        width: 992
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a31648dda464f4bb16b934b4eeff65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_41
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 3130
+        width: 982
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58305c8885c56fa4f86476e730812cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_43
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 3130
+        width: 945
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a9f87babf58741921e7b35899fe8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_45
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 3130
+        width: 956
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf80bf981c618449f722dca1b605e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_46
+      rect:
+        serializedVersion: 2
+        x: 7422
+        y: 3130
+        width: 807
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac5e822902f124c977cc01c78f3c91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1693
+        width: 807
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02239460a9d14459b03e26c36622c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_58
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1693
+        width: 871
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17612cbf9abacb46bdc091e129cda7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_59
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1693
+        width: 876
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998c4ad42192ac4e9d55793260293a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_60
+      rect:
+        serializedVersion: 2
+        x: 5724
+        y: 1693
+        width: 948
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a5c704520250489ef812fb5e5f832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_62
+      rect:
+        serializedVersion: 2
+        x: 7422
+        y: 1693
+        width: 953
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0293aeaee80143879e3c49bb9bee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_70
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 251
+        width: 944
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb48a63c1b7044b8821b41d280c6d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GCT_73
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 251
+        width: 957
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9626f90b4785b4f8b923ce3fb72682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b52c60e343807445b5e1354ebc71566
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

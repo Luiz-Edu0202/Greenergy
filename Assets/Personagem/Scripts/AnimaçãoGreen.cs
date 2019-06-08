@@ -30,7 +30,7 @@ public class AnimaçãoGreen : MonoBehaviour
     public void Atirou(){
         if (atirou == true)
         {
-            StartCoroutine(IdAtirou());
+           // StartCoroutine(IdAtirou());
         }
     }
     public void animMovimento(){

@@ -13,9 +13,12 @@ public class PassarFase2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Time.timeSinceLevelLoad>11f)
+        if(Input.GetKey(KeyCode.Escape)){
+            SceneManager.LoadScene("Contine...");
+        }
+        if(Time.timeSinceLevelLoad>10f)
         {
-            SceneManager.LoadScene("GameFase3");
+            SceneManager.LoadScene("Contine...");
         }
     }
 }

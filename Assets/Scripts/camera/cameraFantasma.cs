@@ -36,7 +36,6 @@ public class cameraFantasma : MonoBehaviour
     {
         //Métodos 
         movimento();
-        pause();
     }
 
     public void movimento()
@@ -81,19 +80,4 @@ public class cameraFantasma : MonoBehaviour
       
     
     }    
-
-        void pause()
-    {
-        if(Input.GetKeyDown(KeyCode.Escape) && paused == false)
-        {
-            Time.timeScale = 0f;
-            paused = true;    
-            Instantiate(telaPausa, transform.position , Quaternion.identity);
-        }
-        else if(Input.GetKeyDown(KeyCode.Escape) && paused == true)
-        {
-            Time.timeScale = 1f;
-            paused = false;
-        }
-    }
 }

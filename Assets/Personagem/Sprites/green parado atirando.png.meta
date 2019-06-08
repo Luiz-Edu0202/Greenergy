@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: ebe41aabd8e540443bd9a3ca54e296e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: green parado atirando_0
+    21300002: green parado atirando_1
+    21300004: green parado atirando_2
+    21300006: green parado atirando_3
+    21300008: green parado atirando_4
+    21300010: green parado atirando_5
+    21300012: green parado atirando_12
+    21300014: green parado atirando_15
+    21300016: green parado atirando_18
+    21300018: green parado atirando_19
+    21300020: green parado atirando_20
+    21300022: green parado atirando_21
+    21300024: green parado atirando_24
+    21300026: green parado atirando_25
+    21300028: green parado atirando_27
+    21300030: green parado atirando_29
+    21300032: green parado atirando_30
+    21300034: green parado atirando_31
+    21300036: green parado atirando_34
+    21300038: green parado atirando_35
+    21300040: green parado atirando_37
+    21300042: green parado atirando_39
+    21300044: green parado atirando_41
+    21300046: green parado atirando_43
+    21300048: green parado atirando_56
+    21300050: green parado atirando_57
+    21300052: green parado atirando_58
+    21300054: green parado atirando_59
+    21300056: green parado atirando_60
+    21300058: green parado atirando_63
+    21300060: green parado atirando_72
+    21300062: green parado atirando_74
+    21300064: green parado atirando_8
+    21300066: green parado atirando_11
+    21300068: green parado atirando_13
+    21300070: green parado atirando_14
+    21300072: green parado atirando_22
+    21300074: green parado atirando_28
+    21300076: green parado atirando_32
+    21300078: green parado atirando_36
+    21300080: green parado atirando_46
+    21300082: green parado atirando_47
+    21300084: green parado atirando_48
+    21300086: green parado atirando_50
+    21300088: green parado atirando_61
+    21300090: green parado atirando_64
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green parado atirando_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 8489
+        width: 833
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0043854bb78094dbed94e07e91622b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_1
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 8466
+        width: 827
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b542ce46d1054ebf859186828d4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_2
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 8447
+        width: 832
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2e81b19f99324d8fd19053e9150d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_3
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 8423
+        width: 833
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ff9975851b2045a43af92aa3b7f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6911
+        width: 828
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e069c046aee94e86a0e52d5ba127a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_11
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 6893
+        width: 833
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b027e3f7c5c140938a8f0276e9c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_12
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 7008
+        width: 832
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9dd0725b3d464478e93ca19064493b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_13
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 6989
+        width: 832
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef58f7c9142ce64cb57928e5179e70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_14
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 6965
+        width: 827
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf898ed900b084c9b16cc84dd3dd6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5517
+        width: 865
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3f2e54eda01441a6e451eb712ff13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_20
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 5493
+        width: 865
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e972a2538a9c945a9059981eccdbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_22
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 5470
+        width: 899
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f6415ee7c75e4a98e4a781f1179a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_24
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 5446
+        width: 894
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65731250c2e4c8428177baa8782e52b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_25
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 5427
+        width: 1006
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ac37d32b5a6c4c94a96910452772c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3979
+        width: 1049
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5da426660965440a1ff857b1f11a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_29
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 3955
+        width: 1077
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58196e5b1103a9847b01b2e8e1899bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_32
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 3932
+        width: 1191
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb819fb0c8bb44e4e9579ead82a7e3e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_34
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 3908
+        width: 1182
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfb431f73a0944285207fe98eb13fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_36
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 3889
+        width: 1169
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5e397ae57d5a64193b9553085f51f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2441
+        width: 1002
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d126ebf9229e45be89d9aa3ea396a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_47
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2417
+        width: 997
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf3332e4f07554c970399d4ea2ebcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_48
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 2394
+        width: 1068
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64664143c6af694bb76a132da56e054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_50
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 2352
+        width: 1171
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f8173264a97545a8cd26eb54e646c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_56
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 903
+        width: 823
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09af6edb65c76947b7ee6e2222ace8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_57
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 879
+        width: 828
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f2c9172c84ee47915ebfbe1ff4263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_58
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 847
+        width: 833
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699cac5fb3f9eb64f936e91eef2dc378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_59
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 847
+        width: 1011
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba52264a4ac69448e2722e015a80d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_60
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 847
+        width: 838
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989fe53a32f5d734bb8a4522e0732680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_61
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 809
+        width: 1162
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b885e840339f448ca11ad8aadc67a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_64
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 679
+        width: 827
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f288be3674e4c46af2742c8bc5f79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green parado atirando_4
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 8364
+        width: 868
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05282a0453dc393488e0d825b526dc37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45e105648ff5422479827ce73651f2ea
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

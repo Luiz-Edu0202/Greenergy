@@ -8,18 +8,14 @@ public class playerbehavior : MonoBehaviour
     
     private float xiz = 0f;
     public bool batida;
-    public bool paused;
-    public GameObject telaPausa;
+    public GameObject Canvas;
     //public GameObject telaMorta;
 
 
     IEnumerator TimerPw()
 	{	
-        //Instantiate(telaMorta, new Vector2(0.1f,1.6f), Quaternion.identity);
-		yield return new WaitForSeconds(5f);
-        SceneManager.LoadScene("GameOver");
-        GetComponent<Renderer>().material.color = Color.white;
-		batida = false;
+		yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("GameOver2");
 	}
     void Start()
     {
@@ -31,7 +27,6 @@ public class playerbehavior : MonoBehaviour
     void Update()
     {
         Move();
-        pause();
     }
 
     private void Move()
@@ -60,22 +55,6 @@ public class playerbehavior : MonoBehaviour
             StartCoroutine(TimerPw());
         }				
 	}
-        void pause()
-    {
-        if(Input.GetKeyDown(KeyCode.Escape) && paused == false)
-        {
-            Time.timeScale = 0f;
-            paused = true;
-            batida = true;
-            Instantiate(telaPausa, new Vector2(0.3f,1.5f), Quaternion.identity);
-        }
-        else if(Input.GetKeyDown(KeyCode.Escape) && paused == true)
-        {
-            Time.timeScale = 1f;
-            paused = false;
-            batida = false;
-        }
-
-    }
+        
 
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class cameraMov : MonoBehaviour
 {
-    [SerializeField]
+
     public GameObject Personagem;
     private Vector3 Cam;
     private float posx;

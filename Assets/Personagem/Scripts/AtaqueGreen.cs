@@ -46,7 +46,7 @@ public class AtaqueGreen : MonoBehaviour
                 ScriptProjC.direção = Vector3.up;               
                 nextFire = fireRate + Time.time;
 
-                Instantiate(ProjetilSC, transform.position + new Vector3(-0.4f, 0.4f), Quaternion.identity); 
+                Instantiate(ProjetilSC, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
@@ -58,7 +58,7 @@ public class AtaqueGreen : MonoBehaviour
                 ScriptProjB.direção = Vector3.down;               
                 nextFire = fireRate + Time.time;
 
-                Instantiate(ProjetilSB, transform.position + new Vector3(0.535f, -0.5393f), Quaternion.identity); 
+                Instantiate(ProjetilSB, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
@@ -70,7 +70,7 @@ public class AtaqueGreen : MonoBehaviour
                 ScriptProjD.direção = Vector3.right;               
                 nextFire = fireRate + Time.time;
             
-                Instantiate(ProjetilSD, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSD, transform.position , Quaternion.identity); 
                 fxTiroSimples();
             }
         }
@@ -82,56 +82,56 @@ public class AtaqueGreen : MonoBehaviour
                 ScriptProjE.direção = Vector3.left;               
                 nextFire = fireRate + Time.time;
             
-                Instantiate(ProjetilSE, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSE, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
 
         //Atirando Parado
-        if (Input.GetKeyUp(KeyCode.UpArrow))
+        if (Input.GetKeyUp(KeyCode.UpArrow) && GetComponent<Rigidbody2D>().velocity == speedNulo )
         {
             if (Time.time > nextFire)
             {       
                 ScriptProjC.direção = Vector3.up;               
                 nextFire = fireRate + Time.time;
 
-                Instantiate(ProjetilSC, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSC, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
         
-        if (Input.GetKeyUp(KeyCode.DownArrow))
+        if (Input.GetKeyUp(KeyCode.DownArrow) && GetComponent<Rigidbody2D>().velocity == speedNulo)
         {
             if (Time.time > nextFire)
             {       
                 ScriptProjB.direção = Vector3.down;               
                 nextFire = fireRate + Time.time;
 
-                Instantiate(ProjetilSB, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSB, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
         
-        if (Input.GetKeyUp(KeyCode.RightArrow))
+        if (Input.GetKeyUp(KeyCode.RightArrow) && GetComponent<Rigidbody2D>().velocity == speedNulo)
         {
             if (Time.time > nextFire)
             {       
                 ScriptProjD.direção = Vector3.right;               
                 nextFire = fireRate + Time.time;
             
-                Instantiate(ProjetilSD, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSD, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
         
-        if (Input.GetKeyUp(KeyCode.LeftArrow))
+        if (Input.GetKeyUp(KeyCode.LeftArrow) && GetComponent<Rigidbody2D>().velocity == speedNulo)
         {
             if (Time.time > nextFire)
             {       
                 ScriptProjE.direção = Vector3.left;               
                 nextFire = fireRate + Time.time;
             
-                Instantiate(ProjetilSE, transform.position + new Vector3(-0.108f, 0.22f), Quaternion.identity); 
+                Instantiate(ProjetilSE, transform.position, Quaternion.identity); 
                 fxTiroSimples();
             }
         }
